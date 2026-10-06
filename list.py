@@ -19,7 +19,7 @@ students += ["Kadiatu", "John", "Bintu"]
 
 
 # extending a list
-fruits =( "Apple", "Banana", "Manggo")
+fruits = ["Apple", "Banana", "Mango"]
 students.extend(fruits)
 print(students)
 
